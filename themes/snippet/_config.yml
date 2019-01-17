@@ -66,10 +66,10 @@ notification: |-
 social:
  - name: Github
    icon: git
-   href: //github.com/shenliyang
+   href: //github.com/zhouzixing
  - name: 邮箱
    icon: envelope-o
-   href: mailto:snippet@91h5.cc
+   href: chizi.store@qq.com
  - name: 联系QQ
    icon: qq
    href: /
@@ -166,8 +166,8 @@ reward:
 ## Valine评论
 valine:
    enable: true
-   appId: xOKV9J4UeQAtVkvnJC7Kq2Jn-gzGzoHsz
-   appKey: erIpQac4azoCmgfBB7Dl9maa
+   appId: eNvR38NTp6Cq3mqrfTmSdRmx-gzGzoHsz
+   appKey: 6mtGwtwm2Lyv4eRIyntzWVHm
    placeholder: 说点什么吧
    notify: false
    verify: false
